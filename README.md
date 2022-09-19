@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sasy2
+- 👀 I’m interested in backend coding
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on database management
+- 📫 How to reach me on LinkedIn www.linkedin.com/in/suzie-youyou-b504a8232
