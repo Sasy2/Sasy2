@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sasy2
+- 👋 Hi, I’m Sasy
 - 👀 I’m interested in backend coding
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on database management
