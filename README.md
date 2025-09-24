@@ -40,7 +40,7 @@ I’m open to contributing to:
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/suzie-youyou-b504a8232)  
-- GitHub: [github.com/Sasy2](https://github.com/Sasy2)  
+- [Github](https://github.com/Sasy2)  
 
 ---
 
